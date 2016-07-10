@@ -634,10 +634,6 @@
 
 @media only screen and (max-width: 500px) {
     
-    body {
-    	min-height: 100%;
-    }
-    
     .bannertxt {
     	top: 20%;
     }
