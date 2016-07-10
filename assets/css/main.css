@@ -634,6 +634,10 @@
 
 @media only screen and (max-width: 500px) {
     
+    .bannertxt {
+    	top: 20%;
+    }
+    
     .one img {
         display: none;
     }
