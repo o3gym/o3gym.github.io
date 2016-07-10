@@ -44,7 +44,6 @@
         background-attachment: fixed;
         background-size: cover;
 		text-align: center;
-		min-height: 100%;
 	}
 
 	body, input, select, textarea {
@@ -634,6 +633,10 @@
 }
 
 @media only screen and (max-width: 500px) {
+    
+    body {
+    	background-size: contain;
+    }
     
     .bannertxt {
     	top: 20%;
