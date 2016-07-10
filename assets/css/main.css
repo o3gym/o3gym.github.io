@@ -638,6 +638,10 @@
     	top: 20%;
     }
     
+    #banner h1 {
+        line-height: 1em;
+    }
+    
     .one img {
         display: none;
     }
